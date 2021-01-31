@@ -1,2 +1,3 @@
-# Student-Score-Predictor
-Linear regression model predicting student marks from study hours. Simple and classic beginner ML.
+# Student Score Predictor
+
+Predicts student scores based on study hours using linear regression.
