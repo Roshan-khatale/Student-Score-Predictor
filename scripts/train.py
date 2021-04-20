@@ -10,3 +10,4 @@ model = LinearRegression()
 model.fit(X, y)
 
 joblib.dump(model, "models/student_model.pkl")
+print("Model saved.")
